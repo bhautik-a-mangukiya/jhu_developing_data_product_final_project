@@ -34,7 +34,6 @@ about your application.
 
 #### Links
 
-* Source files available on GitHub: <a href="https://github.com/oraclejavanet/developing-data-products-course-project-3/">https://github.com/oraclejavanet/developing-data-products-course-project-3/</a>
-* Shiny application available on shinyapps.io: <a href="https://jhunter.shinyapps.io/develop-data-products-week-4-project/">https://jhunter.shinyapps.io/develop-data-products-week-4-project/</a>
+* Source files available on GitHub: <a href="https://github.com/bhautik-a-mangukiya/jhu_developing_data_product_final_project">Github</a>
 * Shiny application available on shinyapps.io: <a href="https://jppaa6-bhautik-mangukiya.shinyapps.io/final_project/">app</a>
-* Presentation available on RPubs: <a href="http://rpubs.com/OracleJavaNet/505533">http://rpubs.com/OracleJavaNet/505533</a>
+* Presentation available on RPubs: <a href="https://rpubs.com/bhautik_a_mangukiya/JHU_final_project">presentation</a>
